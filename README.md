@@ -37,4 +37,4 @@ JAVA,DNSServer.java,DNSServer.class
 
     if it isn't we check if it exists and take the result, send to client, send to server, output to logfile, and add it to cache
 
-    we then close every open reader and writer.# DNS-basics
+    we then close every open reader and writer.
